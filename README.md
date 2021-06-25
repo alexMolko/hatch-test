@@ -25,7 +25,7 @@ git clone --branch react-app https://github.com/alexMolko/hatch-test.git
 _Express app_
 
 ```
-git clone --branch <branchname> https://github.com/alexMolko/hatch-test.git
+git clone --branch express-app https://github.com/alexMolko/hatch-test.git
 ```
 
 _Una vez clonados ambos branches, es necesario instalar las dependencieas de ambos proyectos_
