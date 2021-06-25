@@ -19,13 +19,13 @@ _Para iniciar este proyecto es necesario clonar ambos branches en alguna carpeta
 _React app_
 
 ```
-git clone --branch <branchname> <remote-repo-url>
+git clone --branch react-app https://github.com/alexMolko/hatch-test.git
 ```
 
 _Express app_
 
 ```
-git clone --branch <branchname> <remote-repo-url>
+git clone --branch <branchname> https://github.com/alexMolko/hatch-test.git
 ```
 
 _Una vez clonados ambos branches, es necesario instalar las dependencieas de ambos proyectos_
