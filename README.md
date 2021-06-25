@@ -64,8 +64,3 @@ Confirmar que se ejecute en un puerto distinto
 
 
 * **Carlos Maya** - *Developer* 
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
