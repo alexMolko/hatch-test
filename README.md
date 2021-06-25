@@ -14,9 +14,9 @@ _Node js_
 
 ### Instalación 🔧
 
-_Para iniciar este proyecto es necesario clonar ambos branches en 2 carpetas locales. Cada clonación del proyecto en una carpeta local _
+_Para iniciar este proyecto es necesario clonar ambos branches en 2 carpetas locales. Cada clonación del proyecto en una carpeta local_
 
-Crear carpeta local -carpetaLocalReact-
+Crear carpeta local _carpetaLocalReact_
 
 Desde una terminal, ubicarse en la _carpetaLocalReact_ creada
 
