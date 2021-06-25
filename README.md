@@ -18,7 +18,7 @@ _Para iniciar este proyecto es necesario clonar ambos branches en 2 carpetas loc
 
 Crear carpeta local -carpetaLocalReact-
 
-Desde una terminal, ubicarse en la -carpetaLocalReact- creada
+Desde una terminal, ubicarse en la _carpetaLocalReact_ creada
 
 Escribir en la terminal lo siguiente: 
 _React app_
@@ -27,9 +27,9 @@ _React app_
 git clone --branch react-app https://github.com/alexMolko/hatch-test.git
 ```
 
-Crear carpeta local -carpetaLocalExpress-
+Crear carpeta local _carpetaLocalExpress_
 
-Desde una terminal, ubicarse en la -carpetaLocalExpress- creada
+Desde una terminal, ubicarse en la _carpetaLocalExpress_ creada
 
 Escribir en la terminal lo siguiente: 
 
@@ -42,12 +42,12 @@ git clone --branch express-app https://github.com/alexMolko/hatch-test.git
 _Una vez clonados ambos branches, es necesario instalar las dependencieas de ambos proyectos_
 
 _React app_
-Ubicarse en la carpeta -carpetaLocalReact/hatch-test- y escribir lo siguiente desde una terminal:
+Ubicarse en la carpeta _carpetaLocalReact/hatch-test_ y escribir lo siguiente desde una terminal:
 
 ```
 npm install
 ```
-De igual forma ubicarse en la carpeta -carpetaLocalExpress/hatch-test- y escribir lo siguiente desde una terminal:
+De igual forma ubicarse en la carpeta _carpetaLocalExpress/hatch-test_ y escribir lo siguiente desde una terminal:
 
 _Express app_
 
@@ -60,11 +60,11 @@ npm install
 
 _Para iniciar el proyecto es necesario iniciar el proyecto de express_
 
-Escribir lo siguiente en la carpeta -carpetaLocalExpress/hatch-test- desde una terminal. Confirmar que se esté ejecutando desde el puerto 3000
+Escribir lo siguiente en la carpeta _carpetaLocalExpress/hatch-test_ desde una terminal. Confirmar que se esté ejecutando desde el puerto 3000
 ```
 node index.js
 ``` 
-Una vez iniciado, ubicarse en la carpeta -carpetaLocalReact/hatch-test-  y escribir desde una terminal
+Una vez iniciado, ubicarse en la carpeta _carpetaLocalReact/hatch-test_  y escribir desde una terminal
 
 ```
 npm start
